@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM centos
 
 MAINTAINER hello@gritfy.com
 

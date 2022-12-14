@@ -1,4 +1,4 @@
-FROM centos
+FROM centos:centos7.9.2009
 
 MAINTAINER hello@gritfy.com
 
